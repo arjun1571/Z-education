@@ -1,0 +1,21 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.home{
+    margin-top: 120px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.home-text{
+    font-size: 18px;
+    margin-top: 20px;
+}
+.home-title{
+    font-size: 40px;
+}
+.home-button{
+    width: 247px;
+    height: 65px;
+    margin-top: 62px;
+
+}
