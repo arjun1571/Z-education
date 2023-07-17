@@ -19,3 +19,17 @@ body{
     margin-top: 62px;
 
 }
+
+/* cart style start  */
+
+.cart-container{
+    margin-top: 100px;
+    background: #F8FAFC;
+}
+.card-detail{
+    margin-top: 60px;
+}
+/* .card-demo{
+    height: 320px;
+    
+} */
